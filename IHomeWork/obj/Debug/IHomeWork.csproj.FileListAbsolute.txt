@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\IHomeWork\IHomeWork\bin\Debug\IHomeWork.exe.config
+C:\Users\Vlad\source\repos\IHomeWork\IHomeWork\bin\Debug\IHomeWork.exe
+C:\Users\Vlad\source\repos\IHomeWork\IHomeWork\bin\Debug\IHomeWork.pdb
+C:\Users\Vlad\source\repos\IHomeWork\IHomeWork\obj\Debug\IHomeWork.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\IHomeWork\IHomeWork\obj\Debug\IHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\IHomeWork\IHomeWork\obj\Debug\IHomeWork.exe
+C:\Users\Vlad\source\repos\IHomeWork\IHomeWork\obj\Debug\IHomeWork.pdb
